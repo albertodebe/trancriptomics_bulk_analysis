@@ -5,7 +5,7 @@ Access html readable version at https://albertodebe.github.io/trancriptomics_bul
 data analysis workflow for a bulk tissue gene expression project utilizing data from the GTEx project.
 
 Workflow:
-1. preprocessing and filtering
+1. Preprocessing and filtering
 2. Quality Control & Normalization
 3. Exploratory Data Analysis
 4. Differential Expression (DE) Analysis
